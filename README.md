@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my Github page
 
 <!--
 **khiemledev/khiemledev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,22 +15,40 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Khiem. I'm a student and a developer.
+# Le Tran Trong Khiem
 
-🌱 I'm currently studing computer science at [University of Information Technology - Vietnam National University - Ho Chi Minh City (UIT - VNU HCM)](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+> With my passion for research and knowledge of machine learning and artificial intelligence, I want to use what I've learned to bring value to projects that can benefit people from all walks of life. 
 
-🌱 I had some experiences with `C++` `Python` `C#` `Java` `JavaScript` `Dart` `HTML` `CSS`
+## Contact information
 
-🌱 I've worked with `React Native` `Android (Java)` `Android (Kotlin)` `Flutter` `Vuejs` `TailwindCSS` `WPF` `ASP.NET MVC 5` `Tensorflow` `MS SQL SERVER` `MySQL` `nodejs`
+- Email: [admin@khiemle.dev](mailto:admin@khiemle.dev) | [khiemledev@gmail.com](mailto:khiemledev@gmail.com)
 
-🌱 Now, I'm currently working on `Vuejs` `Flutter` `Deep Learning`
+- Phone: 0369 444 ***
 
-🌱 I have basic knowledge in `Machine Learning` `Deep Learning` `Network`
+- Website: [khiemle.dev](https://khiemle.dev)
 
-📫 How to reach me: You can contact me via [admin@khiemle.dev](mailto:admin@khiemle.dev)
+- Address: Ho Chi Minh, Vietnam
 
-⚡ Fun fact: I'm pretty pale 😂
+## Education
 
-👉 My blog: [khiemle.dev](https://khiemle.dev)
+3rd-year student at [University of Information Technology (UIT) - VNU HCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
-👉 My Youtube Channel: [Khiêm Lê](https://www.youtube.com/channel/UC3YLFa4IFGbBGrOSlyJX3bA)
+- Major: Computer Science
+
+- GPA: 8.32/10.0
+
+- Gadurated: Supposed to graduate in 2023
+
+## Skills
+
+- ML/AI: `Pytorch`, `Tensorflow`, `Keras`, `Scikit-learn`, `Numpy`, `Matplotlib`
+
+- Programming languages: `Python` `JavaScript` `C++` `Bash Script`
+
+- Web: `NextJS` `VueJS` `ReactJS` `FastAPI` `NodeJS` `ExpressJS` `Nginx`
+
+- Databases and indexing: `MS SQL Server` `MySQL` `MongoDB` `Redis` `Elasticsearch` `FAISS`
+
+- Deployment: `Docker`, `docker-compose`
+
+- Soft skills: `Critical thinking`, `Computational thinking`, `Teamwork`, `Team Leader`, `Time management`
