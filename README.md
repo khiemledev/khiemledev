@@ -21,23 +21,21 @@ Here are some ideas to get you started:
 
 ## Contact information
 
-- Email: [admin@khiemle.dev](mailto:admin@khiemle.dev) | [khiemledev@gmail.com](mailto:khiemledev@gmail.com)
+- Email: [khiemledev@gmail.com](mailto:khiemledev@gmail.com)
 
 - Phone: 0369 444 ***
 
-- Website: [khiemle.dev](https://khiemle.dev)
+- Website: [khiemle.dev](https://khiemle.dev) | [khiemle.com](https://khiemle.com)
 
 - Address: Ho Chi Minh, Vietnam
 
 ## Education
 
-3rd-year student at [University of Information Technology (UIT) - VNU HCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
+Graduated student @ [University of Information Technology (UIT) - VNU HCM](https://en.uit.edu.vn/overview-vnuhcm-university-information-technology)
 
 - Major: Computer Science
 
-- GPA: 8.32/10.0
-
-- Gadurated: Supposed to graduate in 2023
+- GPA: 8.52/10.0
 
 ## Skills
 
