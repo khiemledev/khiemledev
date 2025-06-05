@@ -35,7 +35,6 @@ Graduated student @ [University of Information Technology (UIT) - VNU HCM](https
 
 - Major: Computer Science
 
-- GPA: 8.52/10.0
 
 ## Skills
 
